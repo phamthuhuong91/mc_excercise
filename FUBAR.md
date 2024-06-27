@@ -30,3 +30,9 @@ Kubernetes is fun
 
 My favorite hike is going to Shi-Shi Beach on the Kitsap Peninsula. I enjoy going to the beach.
 
+# Ted and Alice break things:
+
+This is Ted and Alice try to do something without doing the pull first
+
+ABCDEFG
+
