@@ -19,3 +19,10 @@ This is Ted and Alice working on step 2.
 I like sushi.
 
 I love hiking as well.
+
+# Ted and Alice break things:
+
+This is Ted and Alice try to do something without doing the pull first
+
+ABCDEFG
+
