@@ -18,9 +18,13 @@ This is Ted and Alice working on step 2.
 
 I like sushi.
 
+I love hiking as well.
+
 # Bob breaks the repo
 
 Bob & Carol have switched to Bob’s laptop, started a new feature branch in FUBAR.md, and started working on it. They did not do a git pull origin main and will live to regret it.
 
 Kubernetes is fun
+
+
 
