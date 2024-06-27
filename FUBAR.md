@@ -26,5 +26,7 @@ Bob & Carol have switched to Bob’s laptop, started a new feature branch in FUB
 
 Kubernetes is fun
 
+# Bob does better
 
+My favorite hike is going to Shi-Shi Beach on the Kitsap Peninsula. I enjoy going to the beach.
 
