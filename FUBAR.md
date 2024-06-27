@@ -17,3 +17,5 @@ I love chocolate.
 This is Ted and Alice working on step 2.
 
 I like sushi.
+
+I love hiking as well.
